@@ -219,8 +219,8 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 ## 👨‍💻 Autor
 
 **Akbar** 
-- GitHub: [@seu-usuario](https://github.com/seu-usuario)
-- Email: seu.email@exemplo.com
+- GitHub: [@akbarmiranda](https://github.com/akbarmiranda)
+- Email: akbarmiranda@gmail.com
 
 ---
 
@@ -236,6 +236,6 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ### ⭐ Se este projeto te ajudou, considere dar uma estrela!
 
-**Desenvolvido com ❤️ por [Akbar](https://github.com/seu-usuario)**
+**Desenvolvido com ❤️ por [Akbar](https://github.com/akbarmiranda)**
 
 </div>
